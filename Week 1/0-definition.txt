@@ -1,0 +1,3 @@
+> Functions - pieces of code that perform a unit of work.
+> Keywords- reserved words that are used to construct instructions
+        - if, while, for etc
